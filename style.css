@@ -2,10 +2,6 @@ header {
   width: 100%;
 }
 
-.logo img {
-  width: 250px;
-}
-
 header ul {
   list-style: none;
   background-color: black;
